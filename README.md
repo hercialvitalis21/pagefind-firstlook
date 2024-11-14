@@ -1,4 +1,4 @@
-# Astro Starter Kit: Blog
+git commit -m # Astro Starter Kit: Blog
 
 ```sh
 npm create astro@latest -- --template blog
